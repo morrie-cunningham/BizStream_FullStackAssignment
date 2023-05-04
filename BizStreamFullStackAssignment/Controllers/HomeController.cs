@@ -27,7 +27,7 @@ namespace BizStreamFullStackAssignment.Controllers
             {
                 string filename = "contactFormInfo_" + DateTime.Now.ToString("MMddyyyy_HHmmss") + ".txt";
                 string[] contents = { "First Name: " + cf.FName, "Last Name: " + cf.LName, "Email: " + cf.Email, "Message: " + cf.Message };
-                System.IO.File.WriteAllLines(AppDomain.CurrentDomain.BaseDirectory + filename, contents);
+                System.IO.File.WriteAllLines(filename, contents);
                 return RedirectToAction("Success");
             }
             return RedirectToAction("Index");

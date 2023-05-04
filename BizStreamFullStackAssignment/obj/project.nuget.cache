@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q7VknVBJy8ZAxD4j1WlsMlWloP8W0xQ5PPrkZWRDCSmiLlM31eEmBbJ3iZxvxm/BXnpgI0eWIY0asykQJBNKNw==",
+  "dgSpecHash": "59q9t+DMZQbY/5tJJ60u/XZyMk1SJc9lLh9/9WbE+uTsOKzm/a0RLJn4wN9bRUPPxvwH5++oy9CRBjZ6sW2mDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morri\\source\\repos\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj",
+  "projectFilePath": "C:\\Users\\morri\\Documents\\GitHub\\BizStream_FullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morri\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
     "C:\\Users\\morri\\.nuget\\packages\\jquery\\1.4.4\\jquery.1.4.4.nupkg.sha512",

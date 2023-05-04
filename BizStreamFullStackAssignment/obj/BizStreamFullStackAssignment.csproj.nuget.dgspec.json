@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morri\\source\\repos\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj": {}
+    "C:\\Users\\morri\\Documents\\GitHub\\BizStream_FullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morri\\source\\repos\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj": {
+    "C:\\Users\\morri\\Documents\\GitHub\\BizStream_FullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morri\\source\\repos\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\morri\\Documents\\GitHub\\BizStream_FullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj",
         "projectName": "BizStreamFullStackAssignment",
-        "projectPath": "C:\\Users\\morri\\source\\repos\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj",
+        "projectPath": "C:\\Users\\morri\\Documents\\GitHub\\BizStream_FullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj",
         "packagesPath": "C:\\Users\\morri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morri\\source\\repos\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment\\obj\\",
+        "outputPath": "C:\\Users\\morri\\Documents\\GitHub\\BizStream_FullStackAssignment\\BizStreamFullStackAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morri\\AppData\\Roaming\\NuGet\\NuGet.Config",
