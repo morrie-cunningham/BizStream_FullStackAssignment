@@ -1,0 +1,7 @@
+C:\Users\morri\source\repos\BizStreamFullStackAssignment\BizStreamFullStackAssignment\obj\Release\net6.0\PubTmp\Out\BizStreamFullStackAssignment.exe
+C:\Users\morri\source\repos\BizStreamFullStackAssignment\BizStreamFullStackAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\morri\source\repos\BizStreamFullStackAssignment\BizStreamFullStackAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\morri\source\repos\BizStreamFullStackAssignment\BizStreamFullStackAssignment\obj\Release\net6.0\PubTmp\Out\BizStreamFullStackAssignment.dll
+C:\Users\morri\source\repos\BizStreamFullStackAssignment\BizStreamFullStackAssignment\obj\Release\net6.0\PubTmp\Out\BizStreamFullStackAssignment.deps.json
+C:\Users\morri\source\repos\BizStreamFullStackAssignment\BizStreamFullStackAssignment\obj\Release\net6.0\PubTmp\Out\BizStreamFullStackAssignment.runtimeconfig.json
+C:\Users\morri\source\repos\BizStreamFullStackAssignment\BizStreamFullStackAssignment\obj\Release\net6.0\PubTmp\Out\BizStreamFullStackAssignment.pdb

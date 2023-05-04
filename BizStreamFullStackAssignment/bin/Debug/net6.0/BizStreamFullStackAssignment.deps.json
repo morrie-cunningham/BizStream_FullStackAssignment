@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BizStreamFullStackAssignment/1.0.0": {
+        "dependencies": {
+          "bootstrap": "5.2.3",
+          "jQuery.Validation": "1.19.5"
+        },
+        "runtime": {
+          "BizStreamFullStackAssignment.dll": {}
+        }
+      },
+      "bootstrap/5.2.3": {},
+      "jQuery/1.4.4": {},
+      "jQuery.Validation/1.19.5": {
+        "dependencies": {
+          "jQuery": "1.4.4"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BizStreamFullStackAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tZZrH4HdqBr/oeUlGoc2KliYlwXeN3qyhKgc1B5dc585+lnMkcD4A5yIX2NmNoXCCagQQiQGKn7A97sWoo2AOw==",
+      "path": "bootstrap/5.2.3",
+      "hashPath": "bootstrap.5.2.3.nupkg.sha512"
+    },
+    "jQuery/1.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kexCeYIZehR5fRjo8CK1sngN5SZEQRFNfCYZHMS1RxwEEiSKetBw/gliYJcLJdJEBB+e9aHqleLCjuaSI7u23g==",
+      "path": "jquery/1.4.4",
+      "hashPath": "jquery.1.4.4.nupkg.sha512"
+    },
+    "jQuery.Validation/1.19.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lBHoaszLpKYxiVCWwIoxdqSCrlqnW9jeVMinMQ0uNMFcl3rmY8XyeaerfGLRbkVRUzh/fM3APaKepEezrR5AcA==",
+      "path": "jquery.validation/1.19.5",
+      "hashPath": "jquery.validation.1.19.5.nupkg.sha512"
+    }
+  }
+}

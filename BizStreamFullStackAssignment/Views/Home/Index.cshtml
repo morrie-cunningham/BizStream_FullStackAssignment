@@ -1,0 +1,82 @@
+﻿@model BizStreamFullStackAssignment.Models.ContactForm
+
+@{
+    ViewData["Title"] = "Contact Us";
+}
+
+<div class="mainDiv">
+    <div class="row">
+        <div class="col-md-7">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Contact Us Form</h1>
+                </div>
+            </div>
+            <br />
+            @using (Html.BeginForm("SaveContactForm", "Home", FormMethod.Post))
+            {
+                <div class="row">
+                    <div class="col-md-12">
+                        @Html.LabelFor(m => m.FName, new { htmlAttributes = new { @class = "form-control" } })
+                        <br />
+                        @Html.EditorFor(m => m.FName, new { htmlAttributes = new { @class = "form-control", @id = "input" } })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        @Html.LabelFor(m => m.LName, new { htmlAttributes = new { @class = "form-control" } })
+                        <br />
+                        @Html.EditorFor(m => m.LName, new { htmlAttributes = new { @class = "form-control", @id = "input" } })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        @Html.LabelFor(m => m.Email, new { htmlAttributes = new { @class = "form-control" } })
+                        <br />
+                        @Html.EditorFor(m => m.Email, new { htmlAttributes = new { @class = "form-control", @type = "email", @id = "input", @title = "Enter Valid Email Address", @required = "required", @pattern = @"^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$" } })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        @Html.LabelFor(m => m.Message, new { htmlAttributes = new { @class = "form-control" } })
+                        <br />
+                        @Html.TextAreaFor(m => m.Message, new { @class = "form-control", @rows = "5", @id = "inputTextArea" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <button type="submit" id="submitButton" class="form-control button">SUBMIT</button>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="col-md-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Style Guide</h1>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+                    <p>
+                        <strong>H1 - </strong>38px, Arial, Bold <br />
+                        <strong>Label - </strong>16px, Arial <br />
+                        <strong>Input - </strong>16px, Arial, 36px height, background white, border blue <br />
+                        <strong>Submit - </strong>16px, Arial, 36px height, background blue, color white <br />
+                    </p>
+                    <p>
+                        <strong>Blue - </strong>#0087AA <br />
+                        <strong>Text - </strong>#4A4A4A <br />
+                        <strong>White - </strong>#FFFFFF <br />
+                        <strong>Submit Hover - </strong>#1997b7 <br />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

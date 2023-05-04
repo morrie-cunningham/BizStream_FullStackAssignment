@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7VknVBJy8ZAxD4j1WlsMlWloP8W0xQ5PPrkZWRDCSmiLlM31eEmBbJ3iZxvxm/BXnpgI0eWIY0asykQJBNKNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morri\\source\\repos\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment\\BizStreamFullStackAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morri\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
+    "C:\\Users\\morri\\.nuget\\packages\\jquery\\1.4.4\\jquery.1.4.4.nupkg.sha512",
+    "C:\\Users\\morri\\.nuget\\packages\\jquery.validation\\1.19.5\\jquery.validation.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

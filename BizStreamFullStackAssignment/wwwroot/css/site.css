@@ -1,0 +1,58 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  color: #4A4a4a;
+}
+
+#navBar {
+    background-color: darkorange;
+}
+
+.mainDiv {
+    background-color: #ededed;
+    padding: 50px 80px 50px 80px;
+}
+
+h1 {
+    font-size: 38px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+#label {
+    font-size: 16px;
+    font-family: Arial;
+}
+
+#input{
+    font-size: 16px;
+    font-family: Arial;
+    height: 36px;
+    background-color: white;
+    border-color: #0087AA;
+    width: 90%;
+}
+
+#inputTextArea {
+    font-size: 16px;
+    font-family: Arial;
+    background-color: white;
+    border-color: #0087AA;
+    width: 90%;
+}
+
+#submitButton {
+    font-size: 16px;
+    font-family: Arial;
+    height: 36px;
+    background-color: #0087AA;
+    color: white;
+    width: 90%;
+}
+
+#submitButton:hover {
+    background-color: #1997B7;
+}
